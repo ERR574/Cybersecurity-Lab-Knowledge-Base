@@ -24,6 +24,6 @@ Tras la configuración, se realizaron pruebas de ejecución que generaron los si
 * **Interacción con PowerShell:** El log registró no solo la apertura de PowerShell, sino también los comandos específicos ingresados.
 * **Enumeración de Privilegios:** Se ejecutó `whoami /priv` y el log mostró el argumento `/priv` dentro del campo "Process Command Line".
 
-## Conclusión del Analista
+## Conclusión o lo que aprendí: 
 Sin esta configuración, un atacante podría ejecutar scripts maliciosos o comandos de reconocimiento (`net user`, `ipconfig`, etc.) y el SOC solo vería que "se abrió una terminal", pero no qué se hizo en ella. 
 Ahora, el sistema es capaz de registrar la **intención** del usuario a través de sus comandos, permitiendo una investigación forense real.
