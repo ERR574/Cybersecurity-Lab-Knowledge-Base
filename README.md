@@ -4,10 +4,10 @@ Documentación práctica, análisis y experimentación orientada a defensa, obse
 Este repositorio documenta mi proceso se aprendizaje practico en ciberseguridad, con enfoque en observación, análisis y defensa de sistemas de Linux y Windows.
 
 ## Metodología
--Observar
--Entender
--Ejecutar
--Documentar
+- Observar
+- Entender
+- Ejecutar
+- Documentar
 
 ## Contenido
 - Fundamentos de sistemas y redes
