@@ -3,10 +3,6 @@
 ## Objetivo
 Identificar y analizar un escaneo de puertos activo en la red local, observando el comportamiento desde la perspectiva del atacante y del defensor.
 
-## Stack Tecnológico
-* **Atacante:** Ubuntu 22.04 (Lenovo T490) con **Nmap 7.94SVN**.
-* **Víctima:** Windows 11 (Lenovo IdeaPad Gaming) con **Wireshark**.
-
 ## Análisis del Incidente
 
 ### 1. Perspectiva del Atacante (T490)
